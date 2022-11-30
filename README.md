@@ -5,6 +5,6 @@ So a big thank you to that person.
 # Bike_Sales Project
 In this project we see demographic information about the bike purchasers. Here are some of the steps that occurred in this project:
 
-✦ data cleaning (removed duplicates)
-✦ replacing data in order to make them more readable. 
-✦
+✦ data cleaning (removing duplicates, replacing data in order to make it more readable)
+
+✦ decreasing decimals
