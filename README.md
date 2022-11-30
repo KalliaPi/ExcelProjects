@@ -16,4 +16,4 @@ The third pivot table/chart shows which group of age buys more bikes. And middle
 ✦ Building a Dashboard: coping and pasting the charts in a new sheet. Then for the final touches we created a dashboard title, we align the charts and we inserted slicers to filter the tables. And with the help of those filters(education, marital status and region) we can choose what information we wanna see.
 
 # Credits 
-Alex the Analyst
+[Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst)
