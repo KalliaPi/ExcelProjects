@@ -2,7 +2,7 @@
 The reason i created these excel projects was to better understand how excel works and to become better at it. My goal is to become a Data Analyst and since excel is a very useful tool for this career, i decided to watch videos and do projects. So i learnt how to do data cleaning, how to use functions and formulas, how to create pivot tables, charts, dashboards, etc. One of the videos that i watched in order to create on of the projects, was Alex's the Analyst that is called "Full Project in Excel", on Youtube. 
 So a big thank you to that person.
 
-#https://github.com/KalliaPi/ExcelProjects/blob/main/Bike_Sales.xlsx Bike_Sales Project
+https://github.com/KalliaPi/ExcelProjects/blob/main/Bike_Sales.xlsx# Bike_Sales Project
 In this project we see demographic information about the bike purchasers. Here are some of the steps that occurred in this project(workingsheet):
 
 ✦ Data cleaning (removed duplicates, replaced data in order to make them more readable, decreased decimals)
