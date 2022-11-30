@@ -3,6 +3,8 @@ The reason i created these excel projects was to better understand how excel wor
 So a big thank you to that person.
 
 # Bike_Sales Project
-In this project we see demographic information about the bike purchasers. Here are the steps that occurred in this project
+In this project we see demographic information about the bike purchasers. Here are some of the steps that occurred in this project:
 
-✦ data cleaning (remove duplicates), next we replaced data in order to make them more readable. 
+✦ data cleaning (removed duplicates)
+✦ replacing data in order to make them more readable. 
+✦
